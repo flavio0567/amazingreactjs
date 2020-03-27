@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Loading = styled.div`
   color: #fff;
-  font-sife: 30px;
+  font-size: 30px;
   font-weight: bold;
   display: flex;
   justify-content: center;
@@ -63,7 +63,7 @@ export const IssueList = styled.ul`
     width: 36px;
     height: 36px;
     border-radius: 50%;
-    borde: 2px solid #eee;
+    border: 2px solid #eee;
   }
 
   div {
@@ -86,7 +86,7 @@ export const IssueList = styled.ul`
         background: #eee;
         color: #333;
         border-radius: 2px;
-        font-sie: 12px;
+        font-size: 12px;
         font-size: 12px;
         height: 20px;
         padding: 3px 4px;
